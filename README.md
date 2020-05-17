@@ -1,4 +1,4 @@
-# meditateui
+# Meditation UI Flutter
 
 A new Flutter project.
 
